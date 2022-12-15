@@ -16,9 +16,9 @@ class Student
 public class paramiter_cons {
 
 	public static void main(String[] args) {
-		Student monojit=new Student(101,"Monojit");
+		Student monojit=new Student(101,"Deb");
 		monojit.display();
-		Student mangaldeep=new Student(102,"Mangaldeep");
+		Student mangaldeep=new Student(102,"Sarkar");
 		mangaldeep.display();
 		
 	}
